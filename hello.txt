@@ -1,3 +1,6 @@
 hello git!
+<<<<<<< HEAD
 hello git!qqq
+
+hello git!hhhhhhhh
 hello git!
